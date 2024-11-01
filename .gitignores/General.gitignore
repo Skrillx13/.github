@@ -1,0 +1,4 @@
+# A general use .gitignore
+
+node_modules
+**/.DS_Store
